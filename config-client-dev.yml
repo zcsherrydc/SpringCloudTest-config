@@ -1,4 +1,4 @@
 info:
   profile: dev
   from: git
-test: dev
+test: aaa
