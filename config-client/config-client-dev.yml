@@ -1,5 +1,5 @@
 server:
-  port: 8630
+  port: 8620
 spring:
   application:
     name: config-client
