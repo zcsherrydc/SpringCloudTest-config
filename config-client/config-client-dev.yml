@@ -7,5 +7,5 @@ eureka:
   client:
     service-url:
       #服务注册中心
-      defaultZone: http://19.168.0.108:8761/eureka/
+      defaultZone: http://192.168.0.108:8761/eureka/
 env: 13
