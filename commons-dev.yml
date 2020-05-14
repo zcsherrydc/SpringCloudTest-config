@@ -1,16 +1,16 @@
-oauth-server: http://192.168.0.102:9120/oauth-server
+oauth-server: http://localhost:9120
 
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost/seckill?serverTimezone=Asia/Shanghai&characterEncoding=UTF-8&nullCatalogMeansCurrent=true
     username: root
-    password: '{cipher}AQAfH8upldMGaOdgm+IWetopKOXuo9CWjHUijqVf/4VM9K+U9ykLwxAJxDiQG9N3CqKMCaaDxx+otsa76srw/hWcUTPX+ewag11BforIDFikmfCey/ZyuSfrBM31OG1ajqRHPMycRP2lbMT7Gr3ykwVM4Wu4lsz0KCpj5/xOvxpqjEnLlk5WGEDf6UBraMv1KTWXdUhPLsPs95JVQyFHMeEs48H3GbGzioDfWY1h6l4g0aDuKLlqsJWqXF7dBWYTV3f8jX2ytoWXe1xzmne3INMx1JV93FrNqA2kOgjF4rQkiUyGy0hvVnPYzoQqf3qMS0SwrTnhdtx9aKcGHHfbTbSmo+chzwZFVtqz1lYjUtPrrTXimY9t4kgsqvWuADC8iyY='
+    password: 123456
 
 eureka:
   instance:
     prefer-ip-address: true
-    ip-address: 192.168.186.128
+    ip-address: 106.14.45.78
     #    发送心跳时间间隔 默认30
     lease-renewal-interval-in-seconds: 10
     #    服务端收到最后一次心跳之后等待的时间上限 超过则剔除（客户端告诉服务端按照此规则）
