@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3aaa926-ffa3-4c80-9df4-44f2463743ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\JAVA\CloudOneConfig\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bu3MhI1hx9TKgIwW2AQ0WI9V3B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -13,10 +34,55 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3aaa926-ffa3-4c80-9df4-44f2463743ab" name="Default Changelist" comment="" />
+      <created>1589468104374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589468104374</updated>
+      <workItem from="1589468108194" duration="1395000" />
+    </task>
+    <task id="LOCAL-00001" summary="oauth-server">
+      <created>1589468282563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589468282563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oauth-server" />
+    <option name="LAST_COMMIT_MESSAGE" value="oauth-server" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="109" key="CommitChangelistDialog2" timestamp="1589468252037">
+    <state x="572" y="109" key="CommitChangelistDialog2" timestamp="1589468280871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="109" key="CommitChangelistDialog2/1920.323.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589468252037" />
+    <state x="572" y="109" key="CommitChangelistDialog2/1920.323.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589468280871" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589468295784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/1920.323.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589468295784" />
   </component>
 </project>

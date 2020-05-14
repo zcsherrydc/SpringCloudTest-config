@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/seckill?serverTimezone=Asia/Shanghai&characterEncoding=UTF-8&nullCatalogMeansCurrent=true
     username: root
-    password: env:'{cipher}AQAPa2DT2Lfbq6+Xe8tktDRFqlsnZTe9S0tctbCk1CI2VmgAI2hgfi/8+p7sFTJP40+C7ePYfGWiJDz0cvsQ5OmCR4yXKipfsx+KFba6/ndeObumluiAhlqPSAPl/ROeKpCvXSHKu7F6duvrYy+vNuz+SccZRzVWBaMm5nGntifwbDnhj0zbQZkhDxZzJgd7A/5bMN3k0OEtVFS/QzQwvqqFWVdmphPDV7MSQuC/ttRVcPSFsMjImN36pZgZboAZfeew19IXt9PLIe6lRf47h6l/wl57aeCY/Fe9Vh7luAyVm6ldxwBDlXQ6LqaMqHoPcnyzL1YhbEo3i7qtQpiu1ItZfXruaYkYsjNviG+F+yqhQ6q1Ax8aO3hVsHezhtl8Dcs='
+    password: '{cipher}AQAPa2DT2Lfbq6+Xe8tktDRFqlsnZTe9S0tctbCk1CI2VmgAI2hgfi/8+p7sFTJP40+C7ePYfGWiJDz0cvsQ5OmCR4yXKipfsx+KFba6/ndeObumluiAhlqPSAPl/ROeKpCvXSHKu7F6duvrYy+vNuz+SccZRzVWBaMm5nGntifwbDnhj0zbQZkhDxZzJgd7A/5bMN3k0OEtVFS/QzQwvqqFWVdmphPDV7MSQuC/ttRVcPSFsMjImN36pZgZboAZfeew19IXt9PLIe6lRf47h6l/wl57aeCY/Fe9Vh7luAyVm6ldxwBDlXQ6LqaMqHoPcnyzL1YhbEo3i7qtQpiu1ItZfXruaYkYsjNviG+F+yqhQ6q1Ax8aO3hVsHezhtl8Dcs='
   redis:
     host: localhost
     port: 6379
