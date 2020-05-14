@@ -13,10 +13,6 @@ spring:
     timeout: 20000
     database: 0
 eureka:
-  client:
-    service-url:
-      #服务注册中心
-      defaultZone: http://106.14.45.78:8761/eureka/
   instance:
     prefer-ip-address: true
     #    发送心跳时间间隔 默认30
