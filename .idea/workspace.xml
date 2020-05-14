@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3aaa926-ffa3-4c80-9df4-44f2463743ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/commons-pro.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/config-client-pro.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth-server/oauth-server-pro.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill/seckill-pro.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/zuul-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/zuul-pro.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seckill/seckill-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seckill/seckill-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1bu3MhI1hx9TKgIwW2AQ0WI9V3B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,10 +39,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zuul" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JAVA\CloudOneConfig\zuul" />
+      <recent name="E:\JAVA\CloudOneConfig\config-client" />
+      <recent name="E:\JAVA\CloudOneConfig\seckill" />
+      <recent name="E:\JAVA\CloudOneConfig\oauth-server" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589468104374</updated>
-      <workItem from="1589468108194" duration="1395000" />
+      <workItem from="1589468108194" duration="2645000" />
     </task>
     <task id="LOCAL-00001" summary="oauth-server">
       <created>1589468282563</created>
@@ -65,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589468282563</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="oauth-server">
+      <created>1589470808987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589470808987</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,13 +101,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="oauth-server" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="109" key="CommitChangelistDialog2" timestamp="1589468280871">
+    <state x="572" y="109" key="CommitChangelistDialog2" timestamp="1589470807790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="109" key="CommitChangelistDialog2/1920.323.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589468280871" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589468295784">
+    <state x="572" y="109" key="CommitChangelistDialog2/1920.323.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589470807790" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589470810762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/1920.323.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589468295784" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/1920.323.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589470810762" />
   </component>
 </project>
