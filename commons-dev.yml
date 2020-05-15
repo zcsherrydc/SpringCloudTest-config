@@ -10,7 +10,7 @@ spring:
   redis:
     host: ${master-ip}
     port: 6379
-    password: root
+    password: 123456
     timeout: 20000
     database: 0
   rabbitmq:
