@@ -1,4 +1,4 @@
-master-ip: 172.17.0.1
+master-ip: 106.14.45.78
 oauth-server: http://${master-ip}:9120
 
 spring:
